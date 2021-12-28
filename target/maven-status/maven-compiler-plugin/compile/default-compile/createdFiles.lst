@@ -1,0 +1,5 @@
+pe\idat\App.class
+pe\idat\colegio\InstitucionEducativa.class
+pe\idat\personal\Personal.class
+pe\idat\personal\Docentes.class
+pe\idat\personal\Alumnos.class
